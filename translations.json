@@ -1,0 +1,82 @@
+{
+	"en":
+	{
+		"title": "How secure is your password?",
+		"gen": "Generate random password",
+		"hint": "enter password",
+		"use_spec": "Use special characters",
+		"use_num": "Use numbers",
+		"pswd_length": "Password length",
+		"inf_dens": "Information density",
+		"comb": "Number of combinations",
+		"est_time": "Estimated time to crack the password",
+		"millis": "milliseconds",
+		"sec": "seconds",
+		"min": "minutes",
+		"h": "hours",
+		"d": "days",
+		"7d": "weeks",
+		"a": "years",
+		"cent": "centuries"
+	},
+	"de":
+	{
+		"title": "Wie sicher ist dein Passwort?",
+		"gen": "Zufälliges Passwort generieren",
+		"hint": "Passwort eingeben",
+		"use_spec": "Nutze Sonderzeichen",
+		"use_num": "Nutze Ziffern",
+		"pswd_length": "Passwortlänge",
+		"inf_dens": "Informationsdichte",
+		"comb": "Anzahl der Kombinationen",
+		"est_time": "Geschätzte Zeit zum Knacken des Passworts",
+		"millis": "Millisekunden",
+		"sec": "Sekunden",
+		"min": "Minuten",
+		"h": "Stunden",
+		"d": "Tage",
+		"7d": "Wochen",
+		"a": "Jahre",
+		"cent": "Jahrhunderte"
+	},
+	"fr":
+	{
+		"title": "Comment est la sécurité de ton mot de passe?",
+		"gen": "Génére un mot de passe aléatoire",
+		"hint": "entre un mot de passe",
+		"use_spec": "Utilise des symboles",
+		"use_num": "Utilise des chiffres",
+		"pswd_length": "Long du mot de passe",
+		"inf_dens": "Densité d'information",
+		"comb": "Nombres de combinations",
+		"est_time": "Temps estimée pour déplombe le mot de passe",
+		"millis": "milliseconds",
+		"sec": "secondes",
+		"min": "minutees",
+		"h": "heures",
+		"d": "jours",
+		"7d": "semaines",
+		"a": "années",
+		"cent": "siécles"
+	},
+	"sv":
+	{
+		"title": "Hur säker är din lösenord?",
+		"gen": "Generera tilfälliga lösenord",
+		"hint": "mata in lösenord",
+		"use_spec": "Med av särskilda skrivtecken",
+		"use_num": "Med siffror",
+		"pswd_length": "Lösenord längd",
+		"inf_dens": "Informationstäthet",
+		"comb": "Antal kombinationer",
+		"est_time": "Upskattas tid att knäcka lösenordet",
+		"millis": "millisekunder",
+		"sec": "sekunder",
+		"min": "minuter",
+		"h": "timmar",
+		"d": "dagar",
+		"7d": "väckor",
+		"a": "år",
+		"cent": "århundrade"
+	}
+}
