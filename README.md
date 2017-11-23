@@ -1,7 +1,7 @@
 # password-checker-sources
 
 This is the only authorized place to download the sources of the Password Checker app.
- [https://play.google.com/store/apps/details?id=com.thunkable.android.redpandadevs.passwordcheck](Link to the app)
+ [Link to the app](https://play.google.com/store/apps/details?id=com.thunkable.android.redpandadevs.passwordcheck)
 Note that this app was made with thunkable and some of the files need to be edited with MIT App Inventor or its derivatives.
 
 Icons made by [Maxim Basinski](https://www.flaticon.com/authors/maxim-basinski) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
