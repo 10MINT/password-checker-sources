@@ -78,5 +78,44 @@
 		"7d": "väckor",
 		"a": "år",
 		"cent": "århundrade"
+	},
+	"gr":
+	{
+		"title": "Πόσο δυνατός είναι ο κωδικός σας;",
+		"gen": "Δημηούργησε τυχαίο κωδικό",
+		"hint": "πληκτρολογήστε τον κωδικό",
+		"use_spec": "με σύμβολα",
+		"use_num": "με αριθμούς",
+		"pswd_length": "Μήκος κωδικού",
+		"inf_dens": "Πυκνότητα πληροφοριών",
+		"comb": "Αριθμός συνδιασμών",
+		"est_time": "Εκτιμώμενος χρόνος να σπάσει ο κωδικός",
+		"millis": "χιλιοστά δευτερολέπτου",
+		"sec": "δευτερόλεπτα",
+		"min": "λεπτά",
+		"h": "ώρες",
+		"7d": "εβδομάδες",
+		"a": "χρόνια",
+		"cent": "αιώνες"
+	},
+	"tr":
+	{
+		"title": "Şifreniz ne kadar güvenli?",
+		"gen": "Rastgele şifre üret",
+		"hint": "şifre girin",
+		"use_spec": "Özel karakter kullan",
+		"use_num": "Sayı kullan",
+		"pswd_length": "Şifre uzunluğu",
+		"inf_dens": "Bilgi yoğunluğu",
+		"comb": "Kombinasyon sayısı",
+		"est_time": "Şifreyi kırmak için tahmini süre",
+		"millis": "milisaniye",
+		"sec": "saniye",
+		"min": "dakika",
+		"h": "saat",
+		"d": "gün",
+		"7d": "hafta",
+		"a": "yıl",
+		"cent": "asır"
 	}
 }
