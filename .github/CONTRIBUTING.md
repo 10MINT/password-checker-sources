@@ -21,6 +21,12 @@ The following languages are already taken: English, German, French, Swedish, Tur
 		"d": "days",
 		"7d": "weeks",
 		"a": "years",
-		"cent": "centuries"
+		"cent": "centuries",
+		"very_weak": "very weak",
+		"weak": "weak",
+		"avg": "average",
+		"strong": "strong",
+		"very_strong": "very strong",
+		"popular_pswd": "Your password is very popular, you should choose a different password"
     },
 ```
