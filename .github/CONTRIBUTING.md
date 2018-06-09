@@ -22,6 +22,7 @@ The following languages are already taken: English, German, French, Swedish, Tur
 		"7d": "weeks",
 		"a": "years",
 		"cent": "centuries",
+		"strength": "Password strength in words",
 		"very_weak": "very weak",
 		"weak": "weak",
 		"avg": "average",
