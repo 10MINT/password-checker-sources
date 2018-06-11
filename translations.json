@@ -17,7 +17,14 @@
 		"d": "days",
 		"7d": "weeks",
 		"a": "years",
-		"cent": "centuries"
+		"cent": "centuries",
+		"strength": "Password strength in words",
+		"very_weak": "very weak",
+		"weak": "weak",
+		"avg": "average",
+		"strong": "strong",
+		"very_strong": "very strong",
+		"popular_pswd": "Your password is very popular, you should choose a different password"
 	},
 	"de":
 	{
@@ -37,7 +44,14 @@
 		"d": "Tage",
 		"7d": "Wochen",
 		"a": "Jahre",
-		"cent": "Jahrhunderte"
+		"cent": "Jahrhunderte",
+		"strength": "Passwortstärke in Worten",
+		"very_weak": "sehr schwach",
+		"weak": "schwach",
+		"avg": "durchschnittlich",
+		"strong": "stark",
+		"very_strong": "sehr stark",
+		"popular_pswd": "Dein Passwort ist sehr populär, du solltest ein anderes benutzen"
 	},
 	"fr":
 	{
@@ -57,7 +71,14 @@
 		"d": "jours",
 		"7d": "semaines",
 		"a": "années",
-		"cent": "siécles"
+		"cent": "siécles",
+		"strength": "Force du mot de passe en mots",
+		"very_weak": "trés faible",
+		"weak": "faible",
+		"avg": "moyenne",
+		"strong": "fort",
+		"very_strong": "trés fort",
+		"popular_pswd": "Ton mot de passe est trés populaire, tu dois choser un autre"
 	},
 	"sv":
 	{
@@ -77,13 +98,20 @@
 		"d": "dagar",
 		"7d": "väckor",
 		"a": "år",
-		"cent": "århundrade"
+		"cent": "århundrade",
+		"strength": "Styrke av ditt lösenord en ords",
+		"very_weak": "mycket svag",
+		"weak": "svag",
+		"avg": "i genomsnitt",
+		"strong": "stark",
+		"very_strong": "mycket stark",
+		"popular_pswd": "Din lösenord är mycket populär, du ska välja en annat"
 	},
-	"gr":
+	"el":
 	{
 		"title": "Πόσο δυνατός είναι ο κωδικός σας;",
-		"gen": "Δημηούργησε τυχαίο κωδικό",
-		"hint": "πληκτρολογήστε τον κωδικό",
+		"gen": "Δημιούργησε τυχαίο κωδικό",
+		"hint": "γράψτε τον κωδικό",
 		"use_spec": "με σύμβολα",
 		"use_num": "με αριθμούς",
 		"pswd_length": "Μήκος κωδικού",
@@ -94,9 +122,17 @@
 		"sec": "δευτερόλεπτα",
 		"min": "λεπτά",
 		"h": "ώρες",
+        "d": "μέρες",
 		"7d": "εβδομάδες",
 		"a": "χρόνια",
-		"cent": "αιώνες"
+		"cent": "αιώνες",
+		"strength": "Δύναμη κωδικού σε λέξεις",
+		"very_weak": "πολύ αδύναμος",
+		"weak": "αδύναμος",
+		"avg": "μέτριος",
+		"strong": "ισχυρός",
+		"very_strong": "πολύ ισχυρός",
+		"popular_pswd": "Ο κωδικός σας είναι δημοφιλής, πρέπει να επιλέξετε διαφορετικό κωδικό"
 	},
 	"tr":
 	{
@@ -116,6 +152,13 @@
 		"d": "gün",
 		"7d": "hafta",
 		"a": "yıl",
-		"cent": "asır"
-	}
+		"cent": "asır",
+		"strength": "Kelimelerle şifre güvenliği",
+		"very_weak": "çok zayıf",
+		"weak": "zayıf",
+		"avg": "orta",
+		"strong": "güçlü",
+		"very_strong": "çok güçlü",
+		"popular_pswd": "Şifreniz çok popüler, farklı bir şifre seçmelisiniz"
+    }
 }
