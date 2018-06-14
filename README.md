@@ -6,6 +6,14 @@ This is the only authorized place to download the sources of the Password Checke
  
 Note that this app was made with [Thunkable](https://www.thunkable.com) and some of the files need to be edited with MIT App Inventor or its derivatives.
 
+## Extensions used in this project
+* [Clipboard extension](https://puravidaapps.com/clipboard.php) by @Taifun
+* [I18n extension](https://github.com/10MINT/extensions/tree/master/I18n) by me
+
+Thanks to all extension developers
+
+---
+
 You can help by [translating](.github/CONTRIBUTING.md) to this project
 
 ## Translators
